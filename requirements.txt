@@ -1,0 +1,15 @@
+opencv-python
+mediapipe
+pyautogui
+
+# Optional - for voice control
+SpeechRecognition
+pyaudio
+
+# Optional - for ML gesture learning
+scikit-learn
+numpy
+
+# Optional - for UI / overlays
+Pillow
+matplotlib
